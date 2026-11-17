@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole @nwickman
 - 👀 I’m interested in programming, animals and playing computer games.
-- 🌱 I’m currently studying data science other interesting stuff.
+- 🌱 I’m currently studying data science and other interesting stuff.
 
 <!---
 nwickman/nwickman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
